@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.zebra.rfid.api3</groupId>
-  <artifactId>API3_NGE_protocol</artifactId>
+  <artifactId>API3_NGE_Protocol</artifactId>
   <versioning>
     <release>2.0.3.162</release>
     <versions>
