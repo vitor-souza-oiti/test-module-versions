@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.zebra</groupId>
-  <artifactId>API3_ASCII</artifactId>
+  <groupId>com.zebra.rfid</groupId>
+  <artifactId>API3_ZIOTC</artifactId>
   <versioning>
     <release>2.0.3.162</release>
     <versions>
